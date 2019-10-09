@@ -1,0 +1,8 @@
+/venv
+*~
+.DS_Store
+/.idea
+*.iml
+*.md
+basic
+examples
